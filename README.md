@@ -3,13 +3,13 @@
 Question Answering system from stmn.
 
 ## Requirements:
-* Python 2.7
-* Theano 0.7 (with floatX set to float64)
-* recent [NumPy](http://www.numpy.org/) and [SciPy](http://www.scipy.org/)
-* [scikit-learn](http://scikit-learn.org/stable/index.html)
-* [gensim](https://radimrehurek.com/gensim/) 
-* [Keras](https://github.com/fchollet/keras) 
-* [NLTK 3](http://www.nltk.org/)
+-Python 2.7
+-Theano 0.7 (with floatX set to float64)
+-recent [NumPy](http://www.numpy.org/) and [SciPy](http://www.scipy.org/)
+-[scikit-learn](http://scikit-learn.org/stable/index.html)
+-[gensim](https://radimrehurek.com/gensim/) 
+-[Keras](https://github.com/fchollet/keras) 
+-[NLTK 3](http://www.nltk.org/)
 
 #
 download data to corresponding directories in stmn folder:
