@@ -38,11 +38,11 @@ tar -xvzf http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
 
 ##To Run:
 ```
-python wmemnn.py ba/qa5_three-arg-relations_train.txt
+python wmemnn.py babi/qa5_three-arg-relations_train.txt
 ```
 if minimal computing resources are available:
 ```
-python wmemnn.py en/qa5_short_train.txt
+python wmemnn.py babi/qa5_short_train.txt
 ```
 
 ## Acknowledgements
