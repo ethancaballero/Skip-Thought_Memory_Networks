@@ -35,6 +35,10 @@ if minimal computing resources are available:
 ```
 python wmemnn.py babi/qa5_short_train.txt
 ```
+some others available in:
+```
+python wmemnn.py babi/en/~~~.txt
+```
 
 ##Note
 to redownload bAbi manually
