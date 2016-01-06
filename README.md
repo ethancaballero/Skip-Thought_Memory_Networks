@@ -27,15 +27,6 @@ curl -O http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz
 curl -O http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz.pkl
 ```
 
-```
-cd (top_directory_of_folder)
-mkdir en (or use existing /en directory)
-cd en 
-
-curl -O http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
-tar -xvzf http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
-```
-
 ##To Run:
 ```
 python wmemnn.py babi/qa5_three-arg-relations_train.txt
@@ -43,6 +34,15 @@ python wmemnn.py babi/qa5_three-arg-relations_train.txt
 if minimal computing resources are available:
 ```
 python wmemnn.py babi/qa5_short_train.txt
+```
+
+##Note
+to redownload bAbi manually
+```
+cd (top_directory_of_folder)
+curl -O http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
+tar -xvzf http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
+mv tasks_1-20_v1-2 babi
 ```
 
 ## Acknowledgements
