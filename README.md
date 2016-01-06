@@ -8,7 +8,7 @@ Question Answering system from stmn.
 - recent [NumPy](http://www.numpy.org/) and [SciPy](http://www.scipy.org/)
 - [Keras](https://github.com/fchollet/keras) 
 - [NLTK 3](http://www.nltk.org/)
-- [scikit-learn](http://scikit-learn.org/stable/index.html)
+- [scikit-learn](http://scikit-learn.org/stable/index.html) (optional)
 - [gensim](https://radimrehurek.com/gensim/) (optional)
 
 
