@@ -50,7 +50,7 @@ curl -O http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
 tar -xvzf http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
 mv tasks_1-20_v1-2 babi
 ```
-if using newest version of Keras, need to add this theano_utils.py file to:
+if using newest version of Keras, need to add this [theano_utils.py](https://github.com/marcuniq/keras/blob/3599ac7571f7c735692092f484e3f51d8fcaeb25/keras/utils/theano_utils.py) file to:
 ```
 /Library/Python/2.7/site-packages/keras/utils/
 ```
