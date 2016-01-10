@@ -50,6 +50,11 @@ curl -O http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
 tar -xvzf http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
 mv tasks_1-20_v1-2 babi
 ```
+if using newest version of Keras, need to add this theano_utils.py file to:
+```
+/Library/Python/2.7/site-packages/keras/utils/
+```
+
 
 ## Acknowledgements
 based on Pararth Shah's [qa-memnn](https://github.com/pararthshah/qa-memnn) implementation and Ryan Kiros' [skip-thoughts](https://github.com/ryankiros/skip-thoughts) implementation.
