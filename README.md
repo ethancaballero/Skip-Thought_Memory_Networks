@@ -62,4 +62,4 @@ based on Pararth Shah's [qa-memnn](https://github.com/pararthshah/qa-memnn) impl
 
 ## License
 
-MIT
+JSON
