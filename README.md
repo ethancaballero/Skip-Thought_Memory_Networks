@@ -55,7 +55,7 @@ if using newest version of Keras, need to add [theano_utils.py](https://github.c
 /Library/Python/2.7/site-packages/keras/utils/
 ```
 
-this model currently has issues with converge=ing completely
+this model currently has issues with converging completely
 
 
 ## Acknowledgements
