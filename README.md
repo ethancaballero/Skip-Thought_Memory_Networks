@@ -55,6 +55,8 @@ if using newest version of Keras, need to add [theano_utils.py](https://github.c
 /Library/Python/2.7/site-packages/keras/utils/
 ```
 
+this model currently has issues with converge=ing completely
+
 
 ## Acknowledgements
 based on Pararth Shah's [qa-memnn](https://github.com/pararthshah/qa-memnn) implementation and Ryan Kiros' [skip-thoughts](https://github.com/ryankiros/skip-thoughts) implementation.
