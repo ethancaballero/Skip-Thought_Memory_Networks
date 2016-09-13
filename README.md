@@ -1,6 +1,8 @@
 # stmn
 
-Question Answering system from stmn.
+Question Answering system from stmn:
+https://pdfs.semanticscholar.org/6b9f/0d695df0ce01d005eb5aa69386cb5fbac62a.pdf
+
 
 ## Requirements:
 - Python 2.7
@@ -55,7 +57,8 @@ if using newest version of Keras, need to add [theano_utils.py](https://github.c
 /Library/Python/2.7/site-packages/keras/utils/
 ```
 
-this model currently has issues with converging completely
+##Issues
+This model currently has issues with converging completely.
 
 
 ## Acknowledgements
