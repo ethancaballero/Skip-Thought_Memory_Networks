@@ -59,6 +59,7 @@ if using newest version of Keras, need to add [theano_utils.py](https://github.c
 
 ##Issues
 This model currently has issues with converging completely.
+Pull requests trying to remedy this issue are welcomed.
 
 
 ## Acknowledgements
