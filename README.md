@@ -1,7 +1,7 @@
 # stmn
 
 Question Answering system from stmn:
-https://pdfs.semanticscholar.org/ca63/5d353d25644e385c0eeee8c8ebde031d6fa5.pdf
+https://drive.google.com/file/d/1ARlF_frhuRB74bU9eV2vghodq0Jojuyx
 
 
 ## Requirements:
